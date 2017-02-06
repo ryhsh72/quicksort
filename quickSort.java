@@ -1,6 +1,7 @@
 /**
  * Created by jamesno on 2/1/17.
  * AD 325
+ * Assignment: Quicksort a list of strings
  */
 import java.util.*;
 
